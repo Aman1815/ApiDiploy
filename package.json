@@ -1,0 +1,17 @@
+{
+  "name": "apidiploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Api_service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node Api_service"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
